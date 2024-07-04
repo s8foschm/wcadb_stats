@@ -1,0 +1,9 @@
+competitionId	eventId	roundType	pos	best	average	personName	personId	formatId	value1	value2	value3	value4	value5	regionalSingleRecord	regionalAverageRecord	personCountryId
+testComp	333	f	1	100	1000	testPerson	2024AAAA00	a	100	1000	1000	1000	10000	NULL	NULL	Germany
+testComp	222	f	1	100	1000	testPerson	2024AAAA00	a	100	1000	1000	1000	10000	NULL	NULL	Germany
+testComp	666	f	1	900	1000	testPerson	2024AAAA00	m	900	1000	1100	0	0	NULL	NULL	Germany
+testComp	333bf	1	1	5368	-1	testPerson	2024AAAA00	3	5368	-1	-1	0	0	NULL	NULL	Germany
+testComp	333mbf	f	1	970360002	0	testPerson	2024AAAA00	1	970360002	0	0	0	0	NULL	NULL	Germany
+testComp	333mbo	f	1	1980302580	0	testPerson	2024AAAA00	1	1980302580	0	0	0	0	NULL	NULL	France
+testComp	333fm	f	1	30	0	testPerson	2024AAAA00	1	30	0	0	0	0	NULL	NULL	Germany
+testComp	333fm	f	3	25	2767	testPerson	2024AAAA00	m	28	25	30	0	0	NULL	NULL	Germany
